@@ -1,4 +1,4 @@
-# An FAQ Assistant
+# Creating agents with Copilot Studio
 
 ## Scenario  
 Fabrikam wants a simple assistant that can answer frequently asked employee questions such as:
